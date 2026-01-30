@@ -32,7 +32,7 @@ Carga manual de datos
 Copiar código
 
 analisis-vuelos-mendoza/  
-│  
+ │  
 ├── analisis_vuelos_mendoza.ipynb  
 └── README.md
 ## ▶️ Cómo utilizar el proyecto
