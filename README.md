@@ -31,9 +31,9 @@ Carga manual de datos
 ## 📁 Estructura del proyecto
 Copiar código
 
-analisis-vuelos-mendoza/
-│
-├── analisis_vuelos_mendoza.ipynb
+analisis-vuelos-mendoza/  
+│  
+├── analisis_vuelos_mendoza.ipynb  
 └── README.md
 ## ▶️ Cómo utilizar el proyecto
 Abrir el archivo analisis_vuelos_mendoza.ipynb en Jupyter Notebook
@@ -45,7 +45,7 @@ Hora programada
 Hora real o estado del vuelo  
 Visualizar la clasificación final del vuelo
 ## 📌 Casos de uso
-Este proyecto puede utilizarse como:
+Este proyecto puede utilizarse como:  
 Ejercicio de análisis operativo  
 Simulación de control de vuelos  
 Práctica de lógica condicional en Python  
